@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PremiumCar Rental App</string>
+    <string name="txtTitleTextVie">GetYourCar</string>
+    <string name="txtTitleTextView">GetYourCar</string>
+    <string name="txtBMW">Get BMW 5 Series</string>
+    <string name="txtCorvette">Get Chev Corvette</string>
+    <string name="txtTesla">Get Lamborghini Urus</string>
+    <string name="txtWebsite1">Click Here for Lamborghini</string>
+    <string name="txtWebsite2">Click Here for BMW</string>
+    <string name="txtWebsite3">Click Here for Corvette</string>
+    <string name="titleText">TextView</string>
+    <string name="chocolate">chocolate</string>
+
+    <string-array name="CarTypes">
+        <item>BMW 5 Series</item>
+        <item>CLick to Rent BMW</item>
+        <item>Chevrolet Corvette </item>
+        <item>CLick to Rent Corvette</item>
+        <item>Lamborghini Urus</item>
+        <item>CLick to Rent Lamborghini</item>
+
+
+    </string-array>
+
+
+</resources>

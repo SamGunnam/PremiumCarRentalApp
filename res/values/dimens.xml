@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = 'listItemTextSize'>21sp</dimen>
+    <dimen name="margin10">10dp</dimen>
+    <dimen name="titleTextSize">30sp</dimen>
+    <dimen name="listWidth">400dp</dimen>
+    <dimen name="listHeight">90dp</dimen>
+    <dimen name="carImgHeight">600dp</dimen>
+    <dimen name="appIconwidth">300dp</dimen>
+</resources>

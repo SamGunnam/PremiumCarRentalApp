@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".PictureActivity">
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin10"
+        android:gravity="center"
+        android:text="@string/titleText"
+        android:textColor="@color/black"
+        android:textSize="@dimen/titleTextSize" />
+
+    <ImageView
+        android:id="@+id/pictureimageView"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/carImgHeight"
+        android:contentDescription="@string/chocolate"
+        app:srcCompat="@drawable/bms5series" />
+</LinearLayout>
